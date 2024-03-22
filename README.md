@@ -4,11 +4,11 @@
 
 ### Microsoft copilot
 
-    Durante o laboratório acessei o link [https://copilot.microsoft.com/](https://copilot.microsoft.com/) e entrei com os dados da minha conta do Azure. Já conectada com a minha conta, utilizei o serviço do prompt de geração de imagens e inseri a seguinte informação:
+Durante o laboratório acessei o link [https://copilot.microsoft.com/](https://copilot.microsoft.com/) e entrei com os dados da minha conta do Azure. Já conectada com a minha conta, utilizei o serviço do prompt de geração de imagens e inseri a seguinte informação:
 
-    **Crie uma imagem do planeta jupter com uma nave sobrevoando ao redor**
+**Crie uma imagem do planeta jupter com uma nave sobrevoando ao redor**
 
-    Segue a resposta do copilot:
+Segue a resposta do copilot:
 
 ![copilot](img/captura1.JPG)   
 

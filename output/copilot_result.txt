@@ -1,0 +1,5 @@
+Solicitei para que o copilot:
+
+Crie uma imagem do planeta jupter com uma nave sobrevoando ao redor.
+
+O resultado está na pasta inputs com o nome copilot-img.jpg
